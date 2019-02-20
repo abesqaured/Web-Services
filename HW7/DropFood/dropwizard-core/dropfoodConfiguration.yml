@@ -1,0 +1,13 @@
+database:
+  # the name of your JDBC driver
+  driverClass: com.mysql.jdbc.Driver
+
+  # the username
+  user: abeabe
+
+  # the password
+  password: shadow
+
+  # the JDBC URL
+  url: jdbc:mysql://localhost:3306/dropfood?useSSL=false
+  
