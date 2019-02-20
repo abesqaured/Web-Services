@@ -1,3 +1,5 @@
 javac -cp .;"c:\myproject\tomcat\lib\servlet-api.jar" HelloServlet.java
 
 update of hw1 adding rest api for servlets. 
+
+HW2 and HW3 was wrapped as one since HW3 was connecting hw2 an sql database which i have done unintentiionally.
