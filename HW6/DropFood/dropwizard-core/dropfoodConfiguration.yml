@@ -1,0 +1,5 @@
+database:
+  driverClass : org.postgresql.Driver
+  url: 'jdbc:postgresql://db.dropfood.com/'
+  user: pg-user
+  password: iAMs00perSecrEET

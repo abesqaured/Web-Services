@@ -1,0 +1,14 @@
+dropfood\db\ItemDao.class
+dropfood\resources\UserResource.class
+dropfood\api\Item.class
+dropfood\resources\ItemResource.class
+dropfood\api\Order.class
+dropfood\dropfoodApplication$3.class
+dropfood\dropfoodApplication$2.class
+dropfood\dropfoodApplication$1.class
+dropfood\dropfoodConfiguration.class
+dropfood\resources\OrderResource.class
+dropfood\db\OrderDao.class
+dropfood\dropfoodApplication.class
+dropfood\db\UserDao.class
+dropfood\api\User.class
