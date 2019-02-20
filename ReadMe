@@ -1,0 +1,12 @@
+CSC 435 Project Proposal
+
+	The project idea that I would like to create is an application that simulate an online ordering for a restaurant named Fake Food. 
+  There would be around five points of contacts with users using the api. 
+  The first contact point is probably ordering where the user can order as a guest or logged in their own account. 
+  The second contact point is logging in page to access their account and possibly have saved usual orders with it. 
+  The third is probably the cart or checkout page that would have take information for payments. 
+  The back-end functionality would have connection to a database to store a user’s account and order. 
+  Another is being able to complete an encrypted transaction. I would love to learn more about encryption. 
+  The one I know currently is modulus encryption that I recently learned in the first couple of weeks of this semester. 
+  There would be additional classes to store call and store usernames from the database. 
+  Also store orders with the name of items and their prices. There is possibly addition that would be add to the api.
