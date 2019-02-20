@@ -1,1 +1,0 @@
-javac -cp .;"c:\myproject\tomcat\lib\servlet-api.jar" HelloServlet.java
