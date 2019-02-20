@@ -1,1 +1,3 @@
 javac -cp .;"c:\myproject\tomcat\lib\servlet-api.jar" HelloServlet.java
+
+update of hw1 adding rest api for servlets. 
