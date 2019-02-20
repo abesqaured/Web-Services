@@ -1,1 +1,5 @@
+THis HW! was to learn how to compile and run the server by hand using tomcat. 
+
+This command isused to compiles the servlets so you can later run tomcat.
+
 javac -cp .;"c:\myproject\tomcat\lib\servlet-api.jar" HelloServlet.java
