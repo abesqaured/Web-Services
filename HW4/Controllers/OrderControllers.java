@@ -1,4 +1,4 @@
-package Controllers;
+package Controller;
 
 
 import com.fasterxml.jackson.annotation.JsonProperty;
