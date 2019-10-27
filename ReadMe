@@ -10,3 +10,5 @@ CSC 435 Project Proposal
   The one I know currently is modulus encryption that I recently learned in the first couple of weeks of this semester. 
   There would be additional classes to store call and store usernames from the database. 
   Also store orders with the name of items and their prices. There is possibly addition that would be add to the api.
+
+NOTE: HW2 and HW3 in HW2 Folder as HW3 was just connecting a mysql database to it. 
